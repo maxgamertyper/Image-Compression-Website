@@ -1,1 +1,2 @@
-# Image-Compression-Website
+# NeilWebsite
+Personal Website
